@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I focus on exploring Web Development, Programming, and Information Technology Solutions.
+  I focus on exploring Web Development, Programming, and Information System Solutions.
 </p>
 
 About Me
